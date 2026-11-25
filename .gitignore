@@ -1,0 +1,5 @@
+# Never publish: uncleared photos, working files
+/images/
+/design/
+/*.pdf
+.DS_Store
